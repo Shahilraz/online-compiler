@@ -13,11 +13,17 @@
   "dependencies": {
     "bull": "^3.22.4",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.21.2",
     "mongoose": "^5.12.7",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
-  }
+  },
+  "resolutions": {
+  "postcss": "^8.0.0"
+}
+
 }
